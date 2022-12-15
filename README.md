@@ -1,5 +1,5 @@
 # navigator_2_without_router
-- learing how to define a stack of Routes in a declarative way.
+- learning how to define a stack of Routes in a declarative way.
 A new Flutter project.
 
 ## Getting Started
